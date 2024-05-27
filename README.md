@@ -10,6 +10,7 @@ Hello! I'm a self-motivated BEng(Hons) Software Engineering student with a stron
 
 - 📫 How to reach me **mail2arunoda@gmail.com**
 
+<img src ="https://github.com/Adeegithub/Adeegithub/blob/main/coder1.gif?raw=true" alt="Developer Coding" width="400" height="400" align = "right"> <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arunodagunawardana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arunodagunawardana/" height="30" width="40" /></a>
