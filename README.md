@@ -1,7 +1,9 @@
 <h1 align="center">Hey there 👋, I'm Adeesha</h1>
 
+<p align="justify">
 Hello! I'm a self-motivated BEng(Hons) Software Engineering student with a strong foundation in the field, complemented by 12 months of valuable industry experience as a software engineering intern. My journey in the world of technology has been defined by a collaborative spirit and a love for tackling new challenges. I thrive in team settings and believe that collective innovation drives success. Beyond the world of code, I also lead a dual life as a Professional Cricket player, where teamwork and determination are equally essential. I'm excited to continue my growth in the software industry, always eager to embrace fresh opportunities and contribute to meaningful projects. Let's connect and explore how we can work together to make a positive impact! 🚀🏏
  #SoftwareEngineering #TeamPlayer #CricketEnthusiast #TechInnovation
+</p>
  
  <img src ="https://github.com/Adeegithub/Adeegithub/blob/main/coder1.gif?raw=true" alt="Developer Coding" width="300" height="300" align = "right"> <br>
 
