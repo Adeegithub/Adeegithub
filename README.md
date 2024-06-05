@@ -9,7 +9,7 @@ Hello! I'm a self-motivated BEng(Hons) Software Engineering student with a stron
 
 - 🔭 I work on **Full Stack Development, Web Application Development and Mobile Application Development**
 
-- 💬 Ask me about **React,JavaScript, Java, SwiftUI **
+- 💬 Ask me about **React,JavaScript, Java, SwiftUI**
 
 - 📫 You can reach me via **mail2arunoda@gmail.com**
 
