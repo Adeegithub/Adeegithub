@@ -11,7 +11,7 @@ Hello! I'm a self-motivated BEng(Hons) Software Engineering student with a stron
 
 - 💬 Ask me about **React, JavaScript, Java, SwiftUI**
 
-- 📫 You can reach me via **mail2arunoda@gmail.com**
+- 📫 You can reach me via **[adeesha.ag@gmail.com](url)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
