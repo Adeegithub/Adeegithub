@@ -9,7 +9,7 @@ Hello! I'm a self-motivated BEng(Hons) Software Engineering Grad with a strong f
 
 - 🔭 I work on **Full Stack Development, Web Application Development and Mobile Application Development**
 
-- 💬 Ask me about **React, JavaScript, Java, SwiftUI**
+- 💬 Ask me about **Java, React, JavaScript, SwiftUI**
 
 - 📫 You can reach me via **[adeesha.ag@gmail.com](url)**
 
