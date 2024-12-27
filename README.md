@@ -1,8 +1,15 @@
-<h1 align="center">Hey there 👋, I'm Adeesha</h1>
+<h1 align="center">Hey there folks 😉 👋 </h1>
 
 <p align="justify">
-Hello! I'm a self-motivated BEng(Hons) Software Engineering Grad with a strong foundation in the field, complemented by 12 months of valuable industry experience as a software engineering intern. My journey in the world of technology has been defined by a collaborative spirit and a love for tackling new challenges. I thrive in team settings and believe that collective innovation drives success. Beyond the world of code, I also lead a dual life as a Professional Cricket player, where teamwork and determination are equally essential. I'm excited to continue my growth in the software industry, always eager to embrace fresh opportunities and contribute to meaningful projects. Let's connect and explore how we can work together to make a positive impact! 🚀🏏
- #SoftwareEngineering #TeamPlayer #CricketEnthusiast #TechInnovation
+👋 Hello! I'm Adeesha Gunawardana, a dedicated Software Engineer currently refining my skills at Nimbus Venture. I hold a First-Class Honours degree in BEng(Hons) Software Engineering with Industrial Placement from the University of Westminster. With hands-on experience in Java, Spring Boot, Microservices, and a growing expertise in DevOps tools like Docker, CI/CD, and AWS, I’m passionate about building scalable and efficient solutions.
+
+My journey in tech has been enriched by 12 months of industry experience during my internship, and now as a full-time engineer, I'm eager to contribute to impactful projects while embracing continuous learning. Collaboration is at the heart of everything I do, as I believe teamwork drives innovation and success.
+
+Beyond the screen, I’m a Professional Cricket player, having led teams with determination and resilience both on and off the field. Cricket has taught me the value of leadership, adaptability, and striving for excellence—qualities I bring to my software career.
+
+Let's connect and explore opportunities to create meaningful solutions together! 🚀🏏
+
+#SoftwareEngineer #Microservices #DevOps #TeamPlayer #CricketEnthusiast
 </p>
  
  <img src ="https://github.com/Adeegithub/Adeegithub/blob/main/coder1.gif?raw=true" alt="Developer Coding" width="300" height="300" align = "right"> <br>
