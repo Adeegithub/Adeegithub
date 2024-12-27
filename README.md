@@ -16,7 +16,7 @@ Let's connect and explore opportunities to create meaningful solutions together!
 
 - 🔭 I work on **Full Stack Development, Web Application Development and Mobile Application Development**
 
-- 💬 Ask me about **Java, React, JavaScript, SwiftUI**
+- 💬 Ask me about **Java, SpringBoot, JavaScript, Microservices**
 
 - 📫 You can reach me via **[adeesha.ag@gmail.com](url)**
 
