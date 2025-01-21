@@ -12,7 +12,9 @@ Let's connect and explore opportunities to create meaningful solutions together!
 #SoftwareEngineer #Microservices #DevOps #TeamPlayer #CricketEnthusiast
 </p>
  
- <img src ="https://github.com/Adeegithub/Adeegithub/blob/main/coder1.gif?raw=true" alt="Developer Coding" width="300" height="300" align = "right"> <br>
+ <img src ="https://github.com/Adeegithub/Adeegithub/blob/main/coder1.gif?raw=true" alt="Developer Coding" width="350" height="300" align = "left"> <br>
+ <img src ="https://github.com/user-attachments/assets/abb5d82e-4242-4b18-b0d6-be1fe93aeadf" alt="Java Spring" width="650" height="300" align = "right"> <br>
+<br>
 
 - 🔭 I work on **Full Stack Development, Web Application Development and Mobile Application Development**
 
